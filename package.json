@@ -1,0 +1,26 @@
+{
+"name": "42kbiuye-99",
+"version": "1.0.0",
+"description": "Explore and discover new podcasts based on your interests with this user-friendly platform.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/linak6654/42Podcast-Discovery-Platform.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "linak6654",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
